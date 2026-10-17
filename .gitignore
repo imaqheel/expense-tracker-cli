@@ -1,0 +1,13 @@
+
+# Personal expense data
+expenses.json
+expenses.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# PyCharm
+.idea/
