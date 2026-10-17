@@ -1,6 +1,6 @@
 # Expense Tracker CLI
 
-A command-line expense tracker built with Python to record, manage, search, and calculate personal expenses.
+A command line expense tracker built with Python to record, manage, search, and calculate personal expenses.
 
 ## Features
 
